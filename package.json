@@ -1,0 +1,24 @@
+{
+  "name": "zetta-push-button",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "zetta": "^0.17.0",
+    "zetta-led-mock-driver": "^0.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/hideyuki/zetta-push-button.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hideyuki/zetta-push-button/issues"
+  },
+  "homepage": "https://github.com/hideyuki/zetta-push-button"
+}
